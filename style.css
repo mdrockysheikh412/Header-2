@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+    font-family: "Roboto", sans-serif;
+}
+header{
+    background-color: white;
+    height: 812px;
+    background-size: cover;
+    padding: 20px 0;
+    position: relative;
+    
+}
+.header-img{
+    position: absolute;
+    top: 72px;
+    left: 19%;
+}
+.nav-item a{
+    color: black;
+    font-weight: 400;
+    font-size: 16px;
+}
+.navbar-content h1{
+    color: black;
+    font-weight: 500;
+    font-size: 72px;
+}
+.navbar-content p{
+    color: black;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 25px;
+}
+.btn-outline-success {
+    border: none !important;
+    background: none !important;
+    padding-left: 0;
+    font-weight: 400;
+    font-size: 14px;
+    
+}
+.btn-outline-success{
+    
+    
+}
+.btn-outline-success:hover{
+    background: none;
+    color: black;
+    
+}
+.navbar-content{
+    margin-top: 185px;
+    margin-left: px;
+    
+    
+}
+.social-icons {
+    display: flex;
+    flex-direction: column; /* Arrange items vertically */
+    margin-left: 49px;
+    gap: 10px;
+    margin-top: 130px;
+}
+  
+  .social-link {
+    display: inline-block;
+  }
+  
+.nav-item:nth-child(6){
+    --bs-navbar-nav-link-padding-x: -0rem;
+}
+
+.navbar-nav{
+    margin-left: 50px;
+}
+
+.search-icon .btn-outline-success{
+    padding-right: 0;
+}
+
+.container-fluid{
+    width: 95%;
+}
+
+
+
+  
+
+
+
+
+
+
+
+
