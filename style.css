@@ -3,17 +3,10 @@ body{
     font-family: "Roboto", sans-serif;
 }
 header{
-    background-color: white;
-    height: 812px;
+    background-image: url(image/Untitled-1.jpg);
     background-size: cover;
+    background-position: center;
     padding: 20px 0;
-    position: relative;
-    
-}
-.header-img{
-    position: absolute;
-    top: 72px;
-    left: 19%;
 }
 .nav-item a{
     color: black;
@@ -39,10 +32,7 @@ header{
     font-size: 14px;
     
 }
-.btn-outline-success{
-    
-    
-}
+
 .btn-outline-success:hover{
     background: none;
     color: black;
